@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expensesCal/static/css/main.0a6976c5.chunk.css",
+    "main.js": "/expensesCal/static/js/main.c46fe239.chunk.js",
+    "main.js.map": "/expensesCal/static/js/main.c46fe239.chunk.js.map",
+    "runtime-main.js": "/expensesCal/static/js/runtime-main.a8964939.js",
+    "runtime-main.js.map": "/expensesCal/static/js/runtime-main.a8964939.js.map",
+    "static/js/2.d44a83b9.chunk.js": "/expensesCal/static/js/2.d44a83b9.chunk.js",
+    "static/js/2.d44a83b9.chunk.js.map": "/expensesCal/static/js/2.d44a83b9.chunk.js.map",
+    "index.html": "/expensesCal/index.html",
+    "static/css/main.0a6976c5.chunk.css.map": "/expensesCal/static/css/main.0a6976c5.chunk.css.map",
+    "static/js/2.d44a83b9.chunk.js.LICENSE.txt": "/expensesCal/static/js/2.d44a83b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8964939.js",
+    "static/js/2.d44a83b9.chunk.js",
+    "static/css/main.0a6976c5.chunk.css",
+    "static/js/main.c46fe239.chunk.js"
+  ]
+}
